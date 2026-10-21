@@ -1,0 +1,9 @@
+{
+  "title": "Graph neural network playground",
+  "date": "2026-10-13",
+  "description": "Watch nodes pass messages to their neighbours, layer by layer, until a couple of labelled seeds colour whole communities.",
+  "credit": {
+    "handle": "@slavov_n",
+    "url": "https://x.com/slavov_n/status/2109250660851982537"
+  }
+}
